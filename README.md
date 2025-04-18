@@ -1,6 +1,6 @@
 analise-de-dados-brasil/
 │
-├── dados/                    # Dados usados no projeto
+├── dados/                   
 │   ├── estados-limpo.csv
 │   ├── cidades-limpo.csv
 │   └── brasil.csv
@@ -8,12 +8,12 @@ analise-de-dados-brasil/
 ├── notebooks/                # Notebooks Jupyter ou Colab
 │   └── analise_brasil_m13.ipynb
 │
-├── imagens/                  # Imagens para o README ou análises (se houver)
+├── imagens/                 
 │   └── grafico_populacao_regiao.png
 │
-├── README.md                 # Explicação do projeto
-├── .gitignore                # (opcional) para ignorar arquivos
-└── LICENSE                   # (opcional) licença de uso
+├── README.md                
+├── .gitignore             
+└── LICENSE                   
 # 📊 Análise de Dados – Estados e Cidades do Brasil 🇧🇷
 
 Este projeto faz parte do curso **Profissão Analista de Dados** da EBAC, e tem como objetivo manipular, limpar e analisar dados geográficos, demográficos e econômicos do Brasil com Python.
@@ -56,4 +56,4 @@ Este projeto faz parte do curso **Profissão Analista de Dados** da EBAC, e tem 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/analise-de-dados-brasil.git
+https://colab.research.google.com/drive/13bGvvUcNcKrN9qa14nr3vfyPCEWDznNU?usp=sharing
